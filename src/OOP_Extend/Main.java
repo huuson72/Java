@@ -12,5 +12,6 @@ public static void main(String[] args) {
 	System.out.println(r.toString());
 	System.out.println(r.getArea());
 	System.out.println(sq.toString());
+  System.out.println();
 }
 }
